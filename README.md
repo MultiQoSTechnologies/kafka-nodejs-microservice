@@ -143,8 +143,6 @@ This screenshot showcases the product listing interface for the Product microser
 
 Now you're all set to build awesome kafka microservices architecture! 🌟
 
-For more details, visit MultiQoS.[https://multiqos.com/]
-
+For more details, visit [MultiQoS.](https://multiqos.com/)
 Contact us for collaboration or support:
-
 Email: biz@multiqos.com
